@@ -1,2 +1,2 @@
 # second.py
-adding numbers in program
+adding operations in program
